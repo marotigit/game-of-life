@@ -125,7 +125,7 @@ Slightly modified version of Sun Checks that better matches the default code for
     </module>
     <module name="Translation"/>
     <module name="FileLength">
-        <property name="max" value="600"/>
+        <property name="max" value="500"/>
     </module>
     <module name="FileTabCharacter"/>
     <module name="RegexpSingleline">
